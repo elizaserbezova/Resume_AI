@@ -2,7 +2,7 @@
 namespace ResumeAi.Api
 {
     using Microsoft.OpenApi.Models;
-    public class Program
+    public partial class Program
     {
         public static void Main(string[] args)
         {
